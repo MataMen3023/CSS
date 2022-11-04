@@ -1,0 +1,57 @@
+¿Que son los selectores?
+Los selectores identifican a un elemento dentro de la página Web para luego poder definir sus propiedades. 
+Los distintos tipos de selectores abarcan desde el simple nombre de las etiquetas usadas en HTML (BODY, P, CODE, TABLE, UL, etc.) 
+hasta complejas combinaciones que permiten un juego muy amplio de selecciones dentro de la página.
+
+Selector universal: *
+Nos permite cambiar las propiedades de todos los elementos de la pagina web.
+
+* {
+margin:0;
+padding:0;
+}
+
+Selectores de Etiqueta: 
+Con estos podemos cambiar las propiedades de todos los elementos que sean iguales a la etiqueta HTML escogida dentro de la pagina. 
+Por ejemplo, h1 selecciona todos los elementos h1 de la página. 
+
+h1 {
+color:red;
+}
+
+Ademas si queremos realizar el mismo cambio a varios elementos utilizamos la coma ","
+
+h1,h2,h3,h4,h5,h6 {
+color:red;
+}
+
+Selectores Descendentes:
+Nos permiten apuntar a un elemento que se encuentre dentro de otro.
+
+a{
+color:blue;
+}
+
+p a{
+color:blue;
+}
+
+Selectores de Clase:
+Podemos escojer un grupo de elementos que sean parte de una misma clase usando "." y el nombre de la clase
+.uno{
+color:orange;
+}
+
+Selectores de ID:
+Podemos escoger un solo elemento dentro de la pagina usando "#" y la id que le corresponda.
+
+#texto{
+color:green;
+}
+
+Selectores de Atributos:
+Cambiamos propiedades a elementos que tengan los atributos escogidos
+
+a[href="http://www.google.com"]{
+color:white;
+}

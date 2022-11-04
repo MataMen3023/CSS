@@ -1,0 +1,17 @@
+div{
+    background: #ccc;
+    width: 100%;
+
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    height: auto;
+    margin: auto;
+    display: block;
+    padding: 20px;
+    border-radius: 50%;
+    /* box-shadow: 5px 5px 0px rgb(30, 192, 204); */
+    border: 2px solid rgb(30, 192, 204);
+}

@@ -1,0 +1,27 @@
+div{
+    width: 100px;
+    height: 100px;
+    background: rgb(44, 154, 168);
+    color: #fff;
+    font-size: 20px;
+    float: right;
+}
+
+.caja{
+    position: static;
+    top: 200px;
+    bottom: ;
+    right: ;
+    left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+
+Existen diferentes formas de indicarle a CSS que queremos agregarle un color, existen 5 formas:
+- Puede agregar color con palabras clave.
+- Con colores del sistema.
+- RGB numericas.
+- RGB Hexadecimal.
+- RGB porcentual.
+
+//Demostración de un sitio donde se puede identificar combinaciones de colores y sus codigos.
+
+se usa la propiedad:
+color: ;
+
+

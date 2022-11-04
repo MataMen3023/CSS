@@ -1,0 +1,25 @@
+h1{
+    font-weight: normal;
+}
+
+p{
+    /* color: aqua; */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;
+
+    text-shadow: 1px 1px 1px yellow;
+    text-align: center;
+    word-spacing: 10px;
+
+}
+a{
+    text-decoration: none;
+}
+
+
+
+

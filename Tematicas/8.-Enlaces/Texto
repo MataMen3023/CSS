@@ -1,0 +1,18 @@
+A los enlaces se le pueden poner las propiedades de texto como font_size, color, text_decoration, margin, padding
+
+Pseudoclases
+NOs permite aplicarle estilos a los enlaces dependiendo al estado en el que se encuentre
+Hay 4 estados: no visitados, visitados, hover(ensima del enlace), click
+
+text-decoration
+font-size
+background
+color
+
+a:link un enlace no visitado
+a:visited un enlace ya visitado
+a:hover cuando pasamos el mouse ensima
+a:active que va a pasar con un click
+
+
+
