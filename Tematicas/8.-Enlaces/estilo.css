@@ -1,0 +1,27 @@
+a{
+  font-size: 25px;
+  text-decoration: none;
+  background-color: blue;
+  margin: 15px;
+  padding: 10px;
+  display: inline-block;
+}
+
+a:link{
+  color: black;
+}
+
+a:visited{
+  color: red;
+}
+
+a:hover{
+  color: yellow;
+  background-color: aqua;
+
+}
+
+a:active{
+  color: orange;
+  background-color: grey;
+}
