@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1,h3,h5{
+  color: green;
+  font-size: 35px;
+}
+
+.link{
+  color: orange;
+}
+
+#unico{
+  color: red;
+}
+
+a[href="http//:www.google.com"]{
+  color: orange;
+}
+
+section p{
+  color: brown;
+}
